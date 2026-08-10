@@ -49,9 +49,9 @@ names = ["Basic", "Hardened"]
 "Native Tracker Xiaomi"              = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/native-tracker-xiaomi-folder.json"
 # "No Safe Search"                     = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/nosafesearch-folder.json"
 # "Referral Allow"                     = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/referral-allow-folder.json"
-"Spam iDNS"                          = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/spam-idns-folder.json"
+# "Spam iDNS"                          = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/spam-idns-folder.json"
 # "Spam TLDs Allow"                   = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/spam-tlds-allow-folder.json"
-"Spam TLDs Combined"                = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/spam-tlds-combined-folder.json"
+# "Spam TLDs Combined"                = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/spam-tlds-combined-folder.json"
 # "Spam TLDs"                          = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/spam-tlds-folder.json"
 # "Spam TLDs Light"                    = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/spam-tlds-light-folder.json"
 "Ultimate Known Issues Allow"        = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/ultimate-known_issues-allow-folder.json"
@@ -90,6 +90,6 @@ names = ["Basic", "Hardened"]
 # =============================================================================
 
 [profile_folders]
-Hardened   = ["Apple Private Relay Allow", "Badware Hoster", "Microsoft Allow", "Native Tracker Amazon", "Native Tracker Apple", "Native Tracker Huawei", "Native Tracker LG webOS", "Native Tracker Microsoft", "Native Tracker Oppo Realme", "Native Tracker Roku", "Native Tracker Samsung", "Native Tracker TikTok Aggressive", "Native Tracker TikTok", "Native Tracker Vivo", "Native Tracker Xiaomi", "Spam iDNS", "Spam TLDs Combined", "Ultimate Known Issues Allow"]
+Hardened   = ["Apple Private Relay Allow", "Badware Hoster", "Microsoft Allow", "Native Tracker Amazon", "Native Tracker Apple", "Native Tracker Huawei", "Native Tracker LG webOS", "Native Tracker Microsoft", "Native Tracker Oppo Realme", "Native Tracker Roku", "Native Tracker Samsung", "Native Tracker TikTok Aggressive", "Native Tracker TikTok", "Native Tracker Vivo", "Native Tracker Xiaomi", "Ultimate Known Issues Allow"]
 
 Basic = ["Apple Private Relay Allow", "Badware Hoster", "Microsoft Allow", "Native Tracker Amazon", "Native Tracker Apple", "Native Tracker Huawei", "Native Tracker LG webOS", "Native Tracker Microsoft", "Native Tracker Oppo Realme", "Native Tracker Roku", "Native Tracker Samsung", , "Native Tracker TikTok", "Native Tracker Vivo", "Native Tracker Xiaomi", "Ultimate Known Issues Allow"]
