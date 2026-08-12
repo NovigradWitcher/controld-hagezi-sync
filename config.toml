@@ -33,7 +33,7 @@ names = ["Basic", "Hardened"]
 # GitLab
 "Apple Private Relay Allow"          = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/apple-private-relay-allow-folder.json"
 "Badware Hoster"                     = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/badware-hoster-folder.json"
-# "Meta Tracker Allow"                 = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/meta-tracker-allow-folder.json"
+"Meta Tracker Allow"                 = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/meta-tracker-allow-folder.json"
 "Microsoft Allow"                    = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/microsoft-allow-folder.json"
 "Native Tracker Amazon"              = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/native-tracker-amazon-folder.json"
 "Native Tracker Apple"               = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/native-tracker-apple-folder.json"
@@ -43,7 +43,7 @@ names = ["Basic", "Hardened"]
 "Native Tracker Oppo Realme"         = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/native-tracker-oppo-realme-folder.json"
 "Native Tracker Roku"                = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/native-tracker-roku-folder.json"
 "Native Tracker Samsung"             = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/native-tracker-samsung-folder.json"
-"Native Tracker TikTok Aggressive"   = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/native-tracker-tiktok-aggressive-folder.json"
+"Native Tracker TikTok - Agg"        = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/native-tracker-tiktok-aggressive-folder.json"
 "Native Tracker TikTok"              = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/native-tracker-tiktok-folder.json"
 "Native Tracker Vivo"                = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/native-tracker-vivo-folder.json"
 "Native Tracker Xiaomi"              = "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/controld/native-tracker-xiaomi-folder.json"
@@ -90,6 +90,6 @@ names = ["Basic", "Hardened"]
 # =============================================================================
 
 [profile_folders]
-Hardened   = ["Badware Hoster", "Native Tracker Amazon", "Native Tracker Apple", "Native Tracker Huawei", "Native Tracker LG webOS", "Native Tracker Microsoft", "Native Tracker Oppo Realme", "Native Tracker Roku", "Native Tracker Samsung", "Native Tracker TikTok Aggressive", "Native Tracker TikTok", "Native Tracker Vivo", "Native Tracker Xiaomi", "Ultimate Known Issues Allow"]
+Hardened   = ["Badware Hoster", "Native Tracker Amazon", "Native Tracker Apple", "Native Tracker Huawei", "Native Tracker LG webOS", "Native Tracker Microsoft", "Native Tracker Oppo Realme", "Native Tracker Roku", "Native Tracker Samsung", "Native Tracker TikTok - Agg", "Native Tracker TikTok", "Native Tracker Vivo", "Native Tracker Xiaomi", "Ultimate Known Issues Allow"]
 
-Basic = ["Apple Private Relay Allow", "Badware Hoster", "Native Tracker Amazon", "Native Tracker Apple", "Native Tracker Huawei", "Native Tracker LG webOS", "Native Tracker Microsoft", "Native Tracker Oppo Realme", "Native Tracker Roku", "Native Tracker Samsung", , "Native Tracker TikTok", "Native Tracker Vivo", "Native Tracker Xiaomi", "Ultimate Known Issues Allow"]
+Basic      = ["Apple Private Relay Allow", "Badware Hoster", "Native Tracker Amazon", "Native Tracker Apple", "Native Tracker Huawei", "Native Tracker LG webOS", "Native Tracker Microsoft", "Native Tracker Oppo Realme", "Native Tracker Roku", "Native Tracker Samsung", , "Native Tracker TikTok", "Native Tracker Vivo", "Native Tracker Xiaomi", "Ultimate Known Issues Allow"]
